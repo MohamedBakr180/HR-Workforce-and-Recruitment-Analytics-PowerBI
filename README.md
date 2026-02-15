@@ -71,3 +71,22 @@ The Power BI dashboard enables HR management to:
 - Analyze turnover and recruitment trends
 - Evaluate training effectiveness
 - Support data-driven HR decisions
+
+## 📷 Dashboard Screenshots
+
+### Workforce Overview
+![Workforce Overview](Screenshots/workforce_overview.png)
+This view shows headcount distribution by department, job function, and employee demographics.
+
+### Engagement & Satisfaction
+![Engagement & Satisfaction](Screenshots/engagement_satisfaction.png)
+Displays employee engagement, satisfaction, and work-life balance scores across departments.
+
+### Recruitment Analysis
+![Recruitment Analysis](Screenshots/recruitment_analysis.png)
+Highlights the recruitment pipeline, applicant status, and hiring trends by quarter.
+
+### Training Effectiveness
+![Training Effectiveness](Screenshots/training_effectiveness.png)
+Shows training programs, outcomes, costs, and department-level training performance.
+
