@@ -1,5 +1,15 @@
 # HR Workforce & Recruitment Analytics | Power BI
 
+## 🎯 Problem Statement
+HR teams often struggle to understand key drivers of turnover, measure workforce performance,
+evaluate recruitment efficiency, and justify training investments. This project aims to
+deliver actionable insights to support HR decisions and strategic planning.
+
+## 📌 What This Project Enables You To Do
+- Identify departments with high turnover and target retention actions
+- Understand recruitment bottlenecks and optimize hiring strategies
+- Evaluate training programs that deliver real results
+
 ## 📌 Business Problem
 HR leaders need clear visibility into workforce structure, employee engagement,
 turnover patterns, recruitment efficiency, and training effectiveness to make
