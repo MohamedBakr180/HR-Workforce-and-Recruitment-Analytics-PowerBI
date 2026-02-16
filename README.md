@@ -65,8 +65,6 @@ The dataset includes:
 - Optimize recruitment timing based on application trends
 - Re-evaluate training programs with high cost but low success rates
 
-- ### 1. **workforce_overview.png**
-
 ## 📈 Dashboard
 The Power BI dashboard enables HR management to:
 - Monitor workforce KPIs
