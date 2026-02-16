@@ -72,4 +72,3 @@ The Power BI dashboard enables HR management to:
 - Evaluate training effectiveness
 - Support data-driven HR decisions
 
-engagement_satisfaction.jbg
